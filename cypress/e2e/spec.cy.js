@@ -12,7 +12,7 @@ describe('RFs', () => {
 
     cy.get('#username').type('robo.rf')
 
-    cy.get('#password').type('@Xglobal23')
+    cy.get('#password').type('@Xglobal234')
 
     cy.get('.MuiButtonBase-root').click()
 
