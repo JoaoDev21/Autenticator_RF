@@ -21,8 +21,6 @@ describe('RFs', () => {
 
   it('Realizar Cadastro do RF', () => {
 
-    
-
   })
 
 })
